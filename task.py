@@ -1,0 +1,2 @@
+class MyRange:
+    raise NotImplementedError
